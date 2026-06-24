@@ -1,6 +1,6 @@
 # YMusic
 
-Cross-platform music app with HTML/CSS/JS frontend and Go backend.
+Cross-platform blank with HTML/CSS/JS frontend and Go backend.
 
 Supports **Windows**, **Linux** (desktop via Wails v2), and **Android** (WebView + gomobile).
 
