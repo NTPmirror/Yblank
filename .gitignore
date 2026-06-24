@@ -1,0 +1,17 @@
+build/
+for_android/android/ymusic/app/build/
+for_android/android/ymusic/app/libs/*.aar
+for_android/android-sdk/
+for_android/jdk/
+for_android/android/ymusic/.gradle/
+for_android/android/ymusic/local.properties
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
+.env
