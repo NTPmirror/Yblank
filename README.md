@@ -15,7 +15,6 @@ python build.py -Android
 ```
 
 The Android toolchain (JDK 17, Android SDK + NDK) must be placed in `for_android/`.  
-See `for_android/README.md` for setup details.
 
 ## Structure
 
