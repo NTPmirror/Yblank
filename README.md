@@ -1,4 +1,4 @@
-# YMusic
+# YBlank
 
 Cross-platform blank with HTML/CSS/JS frontend and Go backend.
 
